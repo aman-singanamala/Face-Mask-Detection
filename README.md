@@ -5,5 +5,6 @@ For required DataSets  :point_right: :point_right:    [Dataset Link, Click Here 
 
 
 
-![Alt text](r"C:\Users\dell\Desktop\MYFILES\anaconda\FACE_MASK\Screenshot 2022-04-11 021856.png" "Optional title")
+
+![image](https://user-images.githubusercontent.com/84006448/162639434-be77bd66-33ed-43ac-9893-c872203b5c6f.png)
 
